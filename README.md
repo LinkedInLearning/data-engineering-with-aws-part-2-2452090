@@ -32,3 +32,5 @@ To resolve this issue:
 [lil-course-url]: https://www.linkedin.com/learning/
 [lil-thumbnail-url]: http://
 
+## Usage
+Rename 05_04_manifest.json to manifest.json and update the file using your bucket and datafile name at line 4.
