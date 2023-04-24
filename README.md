@@ -1,7 +1,10 @@
 # Data Engineering with AWS Part 2
 This is the repository for the LinkedIn Learning course Data Engineering with AWS Part 2. The full course is available from [LinkedIn Learning][lil-course-url].
 
-_See the readme file in the main branch for updated instructions and information._
+![Data Engineering with AWS Part 2][lil-thumbnail-url] 
+
+Businesses need data experts—now more than ever before. As data-driven decision-making has risen to boardroom prominence, the role of the data expert has become essential to understanding and scaling a business. In this second course of a two-part series, instructor Dipali Kulshrestha focuses on data catalog, processing, analytics, and visualization. Dipali provides useful hands-on exercises—along with some challenges and solutions— to help you master these AWS engineering skills, so join her in this course to level up your skills and give your data engineering career a boost.
+
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
 
@@ -20,15 +23,16 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+
+### Instructor
+
+Dipali Kulshrestha 
+                            
 
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+                            
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/dipali-kulshrestha).
 
+[lil-course-url]: https://www.linkedin.com/learning/data-engineering-with-aws-part-2?dApp=59033956&leis=LAA
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQEWr0nLiXQE1A/learning-public-crop_675_1200/0/1681845316745?e=2147483647&v=beta&t=ANg0j1iKPvXlirhD5WxN7Ex3vvmNgCASMls-KA4b-Og
